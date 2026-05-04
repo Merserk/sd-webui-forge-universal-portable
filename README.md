@@ -24,7 +24,7 @@ This script allows you to choose between the **Classic** (Stable) and **Neo** (E
 ## 🛠️ Installation Guide
 
 1.  [![Download Installer](https://img.shields.io/badge/⬇️%20Download---?style=flat-square&logo=windows&logoColor=white)](https://raw.githubusercontent.com/Merserk/sd-webui-forge-universal-portable/main/install_forge_universal.bat) the `install_forge_universal.bat` file.
-2.  **Place it** in a folder where you want the installation to live (e.g., `C:\AI\SD Forge Neo and Classic`).
+2.  **Place it** in a folder where you want the installation to live (e.g., `C:\AI\SD Forge Neo and Classic\`).
     *   *Tip: Avoid placing it in deeply nested folders to prevent path length limits.*
 3.  **Double-click** the script.
 4.  **Select your Edition:**
