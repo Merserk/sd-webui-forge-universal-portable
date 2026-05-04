@@ -85,7 +85,7 @@ Understanding the different versions of the WebUI can be confusing. Here is how 
 *   **UV:** High-performance Python package installer by [Astral](https://github.com/astral-sh/uv).
 *   **InsightFace Wheels:** Provided by [Gourieff](https://github.com/Gourieff/Assets).
 *   **Original Projects:** Based on SD WebUI by [Automatic1111](https://github.com/automatic1111/stable-diffusion-webui) and Forge by [lllyasviel](https://github.com/lllyasviel/stable-diffusion-webui-forge).
-*   **Python:** The core programming language environment, available at [Python.org](https://www.python.org/).
+*   **Python:** The core programming language environment by [Python Software Foundation](https://www.python.org/).
 *   **MinGit:** Minimal, portable version of Git for Windows by the [Git for Windows Team](https://github.com/git-for-windows/git).
 
 ---
