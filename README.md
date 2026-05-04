@@ -9,6 +9,8 @@
 
 A lightning-fast, zero-dependency, **fully portable** installer for [SD WebUI Forge](https://github.com/Haoming02/sd-webui-forge-classic).
 
+<img width="960" height="540" alt="1920x1080" src="https://github.com/user-attachments/assets/8251d534-486c-4877-819f-6bd1382b99d1" />
+
 This script allows you to choose between the **Classic** (Stable) and **Neo** (Experimental) branches. It sets up a self-contained environment using **UV**, making installation and updates significantly faster than standard methods.
 
 ## ✨ Features
