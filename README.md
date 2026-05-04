@@ -51,7 +51,7 @@ Depending on which version you selected, you will see specific launch files:
 Your folder will look like this (example showing both installed):
 
 ```text
-MyFolder/
+SD Forge Neo and Classic/
 ├── sd-webui-forge-neo/          # Neo Edition Folder
 ├── sd-webui-forge-classic/      # Classic Edition Folder
 │
